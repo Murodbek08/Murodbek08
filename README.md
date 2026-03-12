@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/murodbek-arslonov-2a7a43376">
+  <a href="https://linkedin.com/in/murodbek-arslonov-2a7a43376">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/MurodbekArslonov">
